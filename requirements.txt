@@ -1,3 +1,6 @@
 # Flask Framework
 Flask==2.0.3
 Werkzeug==2.2.2
+
+#Inicia o projeto: python app.py
+#Problema na porta: pip install --upgrade Flask
